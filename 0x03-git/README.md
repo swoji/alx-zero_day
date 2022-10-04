@@ -1,1 +1,1 @@
-Read the manual
+Edited readme
